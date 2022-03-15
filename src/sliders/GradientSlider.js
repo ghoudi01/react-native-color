@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, View, Platform } from 'react-native';
 import PropTypes from 'prop-types';
-import Slider from 'react-native-slider';
+import Slider from '@react-native-community/slider';
 import Gradient from '../gradients/Gradient';
 
 const GradientSlider = ({
